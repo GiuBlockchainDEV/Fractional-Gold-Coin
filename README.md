@@ -1,4 +1,4 @@
-# Project Development Workflow Template
+# Project Development Workflow
 
 The **FractionalGoldCoin** smart contract is designed for the Ethereum blockchain to manage a collection of NFTs representing fractional ownership of physical gold coins. This guide outlines how to mint and manage these coins with the integrated functionalities.
 

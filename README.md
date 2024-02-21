@@ -85,9 +85,7 @@ The FractionalGoldCoin smart contract facilitates the issuance, management, and 
 - Mint the initial batch of NFTs and launch the project for trading.
 
 ## Important Contacts
-- **Project Lead:** John Doe
-- **Lead Developer:** Jane Doe
-- **Legal Advisor:** Richard Roe
+- **Project Lead:** GiuBlockchainDEV
 
 ## Useful Resources
 - Ethereum Smart Contract and Solidity Documentation.

@@ -10,7 +10,7 @@ I've explored the concept of fractionalizing a Non-Fungible Token (NFT) into sma
 
 3. **Implementing Ownership Logic**: The contract meticulously tracks the ownership of each fractional NFT. It includes functions to facilitate the transfer of these fractions between owners and, potentially, to recombine them into the original NFT if one party acquires all fractions.
 
-4. **Interfacing with the Original NFT**: My contract allows fractional NFT holders to interact with the original NFT in various ways. This could mean voting rights on certain decisions regarding the NFT, sharing in any income it generates, or the option to buy out other fractions and reclaim the full NFT.
+4. **Interfacing with the Original NFT**: My contract allows fractional NFT holders to interact with the original NFT in various ways. This could mean voting sharing in any income it generates, or the option to buy out other fractions and reclaim the full NFT.
 
 5. **Choosing the Right Standard**: For fractional NFTs, I opt for the ERC-1155 standard because it supports the creation of both fungible (identical) and non-fungible (unique) tokens in a single contract. This is particularly useful for issuing multiple identical shares of an NFT.
 
